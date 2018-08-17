@@ -1,8 +1,8 @@
-e9fc7bbb25ef1036b0bd78b8d6d4fa81 *DESCRIPTION
+7acb4627dfff1ccbd94d28a8641b3299 *DESCRIPTION
 c9e808f3de36e01ed37c8066fb3d80c7 *NAMESPACE
-c0e58254cca00360922d539f90c344c8 *R/optrdd.R
+6f2384da302422399c842e9864f0f1ce *R/optrdd.R
 b391a92be4916288a4691b10f0862c09 *R/utils.R
 a63592088b53dcb13b64911cf64d0835 *man/get.plusminus.Rd
-c8d474684f3929e6b2a98a11082a6106 *man/optrdd.Rd
+f8fcbea90367021ce7d8620006aa403b *man/optrdd.Rd
 a39345d1cda9e2cd430acb685764ea8c *tests/testthat.R
-9a304899dbe8379befcccfba20a3367f *tests/testthat/test_for_cran.R
+5f3da2447667175d0f3836e46ccb9a7d *tests/testthat/test_for_cran.R
